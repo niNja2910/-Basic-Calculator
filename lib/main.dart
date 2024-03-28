@@ -111,7 +111,7 @@ class _CalculatorState extends State<Calculator> {
               child: Text(
                 output,
                 style: TextStyle(
-                  color: Colors.white,
+                  color: Colors.blueAccent,
                   fontSize: 48.0,
                   fontWeight: FontWeight.bold,
                 ),
